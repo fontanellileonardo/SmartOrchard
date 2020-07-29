@@ -5,7 +5,7 @@ The code folder contains the file for the three kind of actors of the IoT Enviro
 * [Sensor](/code/sensor.c)
 * [Sink](/code/sink.c)
 
-All the code has been compiled in the Contiki-NG operating system.
+The whole code has been compiled in the Contiki-NG operating system.
 
 ## Assignment 
 For this project, it has been provided several use cases for real life scenarios in which the IoT devices are used in order to improve people's lives.
