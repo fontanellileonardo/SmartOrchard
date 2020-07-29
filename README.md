@@ -9,7 +9,7 @@ The whole code has been compiled in the Contiki-NG operating system.
 
 ## Assignment 
 For this project, it has been provided several use cases for real life scenarios in which the IoT devices are used in order to improve people's lives.
-The use case that has been chosen for this project is the Smart Orchard, which is the folling:
+The use case that has been chosen for this project is the Smart Orchard, which is the following:
 ![Smart Orchard Use Case](/images/usecase.png)
 Each group will be given of 3 IoT launchpads.
 
